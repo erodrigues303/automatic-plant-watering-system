@@ -14,8 +14,6 @@ COMPONENT LIST:
 - Water pump
 - Arduino microcontroller
 - Sensor
-- Plant
-- Laptop
 
 ![image](https://github.com/user-attachments/assets/a4f40214-5d15-49b7-a95b-a8c8ee01893b)
 
